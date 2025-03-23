@@ -117,3 +117,8 @@ criaCartao(
     'CALCULE',
     '8² + 5³ - 10² - 3³='
 )
+criaCartao(
+    'PERGUNTA 21', 
+    'CALCULE',
+    '6² - 2³ + 10² - 4³='
+)
